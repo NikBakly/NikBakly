@@ -11,8 +11,8 @@
 ![Rest](https://img.shields.io/badge/-Rest_API-informational?style=for-the-badge)
 
 ### Contact me:
-[![Telegram](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=vk)](https://t.me/NikBakly)
-[![VK](https://img.shields.io/badge/-ВКонтакте-informational?style=for-the-badge&logo=telegram)](https://vk.com/nikbakly)
+[![Telegram](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram)](https://t.me/NikBakly)
+[![VK](https://img.shields.io/badge/-ВКонтакте-informational?style=for-the-badge&logo=vk)](https://vk.com/nikbakly)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikBakly&show_icons=true&hide=stars)
