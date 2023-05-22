@@ -17,4 +17,4 @@
 [![VK](https://img.shields.io/badge/-ВКонтакте-informational?style=for-the-badge&logo=vk)](https://vk.com/nikbakly)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikBakly&show_icons=true&hide=stars)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikBakly&show_icons=true&hide=stars) -->
